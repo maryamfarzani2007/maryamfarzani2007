@@ -8,4 +8,4 @@ till this momemt I have learned HTML and in process of learning CSS.
 - CSS
 - JS
 ---
-welcome to my github page.
+Welcome to my Github page.
